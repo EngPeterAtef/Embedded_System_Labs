@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\ST\Development Systems\Fusion for STM32 v8\Led Blinking\LedBlinking.mcpar
+Project1=..\Req1.mcpar
+Project2=..\Req2.mcpar
+Project3=Req3.mcpar
+[ActiveProject]
+Index=3
